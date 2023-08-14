@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone👋, I'm Ankith Mandal</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/ankithmandal/ankithmandal/main/image.png"> </div>
 <h3 align="center">A passionate Software Developer Engineer from India</h3>
-https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
+https://github.com/ankithmandal/ankithmandal/blob/main/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankithmandal&label=Profile%20views&color=0e75b6&style=flat" alt="ankithmandal" /> </p>
 
